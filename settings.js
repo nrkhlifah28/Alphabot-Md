@@ -27,15 +27,15 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "NoerBoTZ-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeIpehhOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
+global.ownername= "ᴹᴿ᭄ NurIpehhOfcོ ×፝֟͜×" //nama kalian
+global.myweb ="https://github.com/nrkhlifah28" //bebas asal jan hapus
+global.youtube = "https://instagram.com/nrkhlifah28" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
 global.email = "zebraku3@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6289618728196'] //premium user
-global.owner = ["689618728196","6289618728196"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["629618728196","6289618728196"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6289618728196" // nomor wa kalian
 global.ownernomerr = "+6289618728196" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
